@@ -1,0 +1,1 @@
+Estou aprendendo a utilizar os comandos do git no terminal.
